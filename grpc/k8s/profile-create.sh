@@ -2,7 +2,7 @@
 
 export K8_PROFILE_NAME=p-anderjvila-learning
 export K8_NAMESPACE=n-anderjvila-learning
-export K8_MINIK_RAM_MB=6GB
+export K8_MINIK_RAM_MB=3GB
 export K8_MINIK_CPU_NUM=4
 export K8_MINIK_DISK=25GB
 export K8_LOG_LEVEL=1
